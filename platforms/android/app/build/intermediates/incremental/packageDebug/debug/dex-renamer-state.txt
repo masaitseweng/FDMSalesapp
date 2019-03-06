@@ -1,0 +1,4 @@
+#Sun Mar 03 14:43:48 SAST 2019
+base.0=/Users/rcm15/Documents/applord project/fdmApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/rcm15/Documents/applord project/fdmApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

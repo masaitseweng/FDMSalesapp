@@ -1,0 +1,7 @@
+{
+  "name": "fdmApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
